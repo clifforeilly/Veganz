@@ -1,0 +1,9 @@
+name: Veganz
+version: 1
+author: Cliff O'Reilly
+main: uk.me.oreilly.veganz.Veganz
+website: http://www.oreilly.me.uk/veganz
+commands:
+  kit:
+    description: This command is designed to register players on the server as playing as vegans.
+    usage: /veganz
